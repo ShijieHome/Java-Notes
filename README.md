@@ -1,2 +1,2 @@
 # Java-Notes
-notes for a Java fresh man
+Notes for a Java fresh man
